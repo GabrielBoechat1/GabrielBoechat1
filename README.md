@@ -7,7 +7,7 @@
 <p align="center"><strong>Hello, I'm starting my career as a Full Stack developer 💪</strong></p>
 <br>
 
-More about me:
+More about me ↓
 
 - 📖 I’m currently learning: **CSS3**, **HTML5** and **JavaScript**
 
