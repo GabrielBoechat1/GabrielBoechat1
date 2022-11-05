@@ -11,7 +11,7 @@ More about me ↓
 
 - 📖 I’m currently learning: **CSS3**, **HTML5** and **JavaScript**
 
-- 🔭 I'm currently working on to improve my skills
+- 🔭 I'm currently working on improving my skills
 
 - ⛩ Fun fact: I like frogs 🐸
 
